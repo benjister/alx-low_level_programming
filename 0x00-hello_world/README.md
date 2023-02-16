@@ -1,4 +1,3 @@
-
 This project is the first C project as part of the alx_africa curriculum, and covers the very basics of compilation and C.
 
 ## 0. Write a script that runs a C file through the preprocessor and save the result into another file.
@@ -30,7 +29,7 @@ This project is the first C project as part of the alx_africa curriculum, and co
 ### input: check inside the file `6-size.c` to see code.
 
 ## 7. Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
-File 100-intel is a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+File 100-intel is a script that generates the assembly code (Intel syntax) of a C code and save it in an output file
 
 ## 8. Write a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
 File 101-quote.c is a C program that prints exactly "and that piece of art is useful" - Dora Korpar, 2015-10-19", followed by a new line, to the standard error.
