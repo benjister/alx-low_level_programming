@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "lists.h"
 
 /**
@@ -9,6 +10,12 @@
 size_t print_listint(const listint_t *h)
 {
     size_t count = 0;
+
+    if (h == NULL)
+    {
+        fprintf(stderr, "Error: NULL pointer passed to print_listint\n");
+        return (0);
+    }
 
     while (h != NULL)
     {
